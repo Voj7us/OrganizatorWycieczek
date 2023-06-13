@@ -1,0 +1,81 @@
+<ul>
+  <li><b>Szlak na Giewont:</b></li>
+
+    <li><b>Długość:</b> około 9 km (w obie strony)</li>
+    <li><b>Trudność:</b> średnia</li>
+    <li><b>Punkty orientacyjne:</b> Dolina Małej Łąki, Przełęcz Kondracka, Przełęcz Krzyżne</li>
+    <li><b>Opis:</b> Na tej trasie możesz podziwiać malownicze widoki na Tatry, a na Giewoncie znajduje się kaplica Matki Boskiej Częstochowskiej.</li>
+  
+</ul>
+===
+<ul>
+  <li><b>Dolina Kościeliska:</b></li>
+ 
+    <li><b>Długość:</b> około 8 km (w obie strony)</li>
+    <li><b>Trudność:</b> łatwa</li>
+    <li><b>Punkty orientacyjne:</b> Schronisko na Hali Ornak, Jaskinia Mylna</li>
+    <li><b>Opis:</b> Dolina Kościeliska oferuje urocze krajobrazy, strumienie i liczne skały. Można również odwiedzić Jaskinię Mylną, która jest dostępna dla turystów.</li>
+ 
+</ul>
+===
+<ul>
+  <li><b>Dolina Chochołowska:</b></li>
+ 
+    <li><b>Długość:</b> około 14 km (w obie strony)</li>
+    <li><b>Trudność:</b> łatwa</li>
+    <li><b>Punkty orientacyjne:</b> Schronisko na Polanie Chochołowskiej, Wodogrzmoty Mickiewicza</li>
+    <li><b>Opis:</b> Dolina Chochołowska jest jedną z najdłuższych i najpiękniejszych dolin w Tatrach. Na trasie można podziwiać malownicze widoki oraz imponujące wodospady - Wodogrzmoty Mickiewicza.</li>
+
+</ul>
+===
+<ul>
+  <li><b>Dolina Pięciu Stawów Polskich:</b></li>
+ 
+    <li><b>Długość:</b> około 10 km (w obie strony)</li>
+    <li><b>Trudność:</b> średnia</li>
+    <li><b>Punkty orientacyjne:</b> Schronisko PTTK w Dolinie Pięciu Stawów, Wielki Staw Polski</li>
+    <li><b>Opis:</b> Dolina Pięciu Stawów Polskich to jedno z najpiękniejszych miejsc w Tatrach. Trasa prowadzi przez górskie potoki, skaliste ścieżki i zielone łąki, a na końcu znajduje się imponujący Wielki Staw Polski, otoczony majestatycznymi szczytami. To idealne miejsce do odpoczynku i kontemplacji przyrody.</li>
+  
+</ul>
+===
+<ul>
+  <li><b>Szlak na Rysy:</b></li>
+ 
+    <li><b>Długość:</b> około 9 km (w obie strony)</li>
+    <li><b>Trudność:</b> trudna</li>
+    <li><b>Punkty orientacyjne:</b> Przełęcz pod Kopą, Rysy (szczyt)</li>
+    <li><b>Opis:</b> Rysy to najwyższy szczyt Tatr Polskich i jedno z najpopularniejszych miejsc do wspinaczki. Trasa jest wymagająca, ale nagrodą są spektakularne widoki z góry. Wspinaczka na Rysy wymaga pewnych umiejętności i doświadczenia.</li>
+
+</ul>
+===
+<ul>
+  <li><b>Szlak na Kasprowy Wierch:</b></li>
+
+    <li><b>Długość:</b> około 8 km (w obie strony)</li>
+    <li><b>Trudność:</b> łatwa</li>
+    <li><b>Punkty orientacyjne:</b> Polana Kondratowa, Kasprowy Wierch (szczyt)</li>
+    <li><b>Opis:</b> Kasprowy Wierch to popularny szczyt w Tatrach Zachodnich. Można tam dotrzeć kolejką linową lub pieszo. Trasa piesza prowadzi przez piękne tereny górskie, a na szczycie można podziwiać panoramę Tatr i okolicznych regionów.</li>
+
+</ul>
+===
+<ul>
+  <li><b>Morskie Oko:</b></li>
+
+    <li><b>Długość:</b> około 8 km (w obie strony)</li>
+    <li><b>Trudność:</b> łatwa</li>
+    <li><b>Punkty orientacyjne:</b> Schronisko przy Morskim Oku, Jezioro Morskie Oko</li>
+    <li><b>Opis:</b> Morskie Oko to największe i najbardziej znane jezioro w Tatrach. Trasa prowadzi przez malownicze tereny i kończy się przy samym jeziorze, gdzie można podziwiać jego piękno.</li>
+
+</ul>
+===
+<ul>
+  <li><b>Szlak na Rysy od słowackiej strony:</b></li>
+
+    <li><b>Długość:</b> około 16 km (w obie strony)</li>
+    <li><b>Trudność:</b> trudna</li>
+    <li><b>Punkty orientacyjne:</b> Dlha luka, Chata pod Rysmi, Rysy (szczyt)</li>
+    <li><b>Opis:</b> Ten szlak na Rysy prowadzi od słowackiej strony Tatr. Trasa jest wymagająca i długa, ale nagrodą są niesamowite widoki i możliwość zdobycia najwyższego szczytu Tatr.</li>
+
+</ul>
+
+    
